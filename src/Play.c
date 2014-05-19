@@ -10,3 +10,8 @@ void jump()
 {
 	printf("jump!\n");
 }
+
+void scream()
+{
+	printf("This is Fun!!!\n");
+}
